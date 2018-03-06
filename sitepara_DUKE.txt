@@ -1,0 +1,2 @@
+site	vegtype	inputfile	output_hour	output_daily	lat	Longitude	wsmax	wsmin	LAIMAX	LAIMIN	rdepth	Rootmax	Stemmax	SapR	SapS	SLA	GLmax	GRmax	Gsmax	stom_n	a1	Ds0	Vcmx0	extkU	xfang	alpha	Tau_Leaf	Tau_Wood	Tau_Root	Tau_F	Tau_C	Tau_Micro	Tau_SlowSOM	Tau_Passive	gddonset	Q10	Rl0	Rs0	Rr0	co2ca
+US-ORNL	ENF	DUKE_input_amb.txt	H1.TECO.DK.amb.csv	D1.TECO.DK.amb.csv	35.97	-79.08	60	20	6	1.5	50	500	700	0.8	0.1	4.40E-03	0.08	0.08	0.08	2	15	2000	2.50E-05	0.5	0	0.385	0.8	20	3	1.5	3.86	0.8	5	250	500	2	5.1	2.5	7.5	2.85E+02
